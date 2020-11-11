@@ -1,0 +1,22 @@
+--------------------------
+案名: 20201116_mk_SP_01_聖誕交換禮物
+--------------------------
+
+放html位置
+
+https://shopping.udn.com/udnmall/hot/聖誕交換禮物_20201116.html
+
+----------------------------------------
+
+資料夾位置
+
+https://shopping.udn.com/udnmall/hot/20201116/
+
+./20201116/
+
+裡面的子項目
+
+https://shopping.udn.com/udnmall/hot/20201116/images/xxx.jpg
+https://shopping.udn.com/udnmall/hot/20201116/css/xxx.css
+https://shopping.udn.com/udnmall/hot/20201116/js/xxx.js
+
